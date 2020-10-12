@@ -6,7 +6,7 @@ A original project of [@rocketseat](https://rocketseat.com.br/)!
 
 To more information, please contact me.
 
-- [] Version 1.0 is out! 
+- [ ] Version 1.0 is out! 
 
 # Web Version
 
